@@ -94,4 +94,24 @@ Atualmente estou aprendendo C, Java, JavaScript e HTML.
 
 </p>
 
+<br/>
+<br/>
+
+### 📋Exercícios
+Alguns exercícios de aulas e exercícios proprios para praticar
+<p>
+    <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=VTR-46&repo=Gerenciador-De-Playlists-em-C&theme=tokyonight"
+    />
+
+    
+<p>
+<p>
+    <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=VTR-46&repo=RegistroDeViagens&theme=tokyonight"
+    />
+
+    
+<p>
+
 
