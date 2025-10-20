@@ -108,3 +108,7 @@ Alguns exercícios feitos em aula e projetos criados para prática.
 </a>
 
 ---
+<img
+alt="Rossi like"
+height="200" 
+src="https://tenor.com/view/vr46-gif-9987330331952923826.gif">
