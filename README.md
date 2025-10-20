@@ -67,6 +67,13 @@ Atualmente estou aprendendo C, Java, JavaScript e HTML.
 <br/>
 <br/>
 
+### 💡Projetos
+<p>
+    <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=VTR-46&repo=Turbo-Tupiniquim&theme=tokyonight"
+    />
+<p>
+
 ### 📊 Estatísticas
 
 <p>
@@ -86,3 +93,5 @@ Atualmente estou aprendendo C, Java, JavaScript e HTML.
   />
 
 </p>
+
+
