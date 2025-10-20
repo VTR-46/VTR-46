@@ -109,10 +109,13 @@ Alguns exercícios feitos em aula e projetos criados para prática.
 
 ---
 
-<p align="center">
+<br>
+<div align="center">
+
   <img
       alt="Rossi like"
-      height="250"
-      src="https://tenor.com/view/vr46-gif-9987330331952923826.gif"
+      height="500"
+      src="https://cdn.discordapp.com/attachments/796522535776813106/1429658192958455870/vr46.gif?ex=68f6f072&is=68f59ef2&hm=a90a67f628a9074c66f657d4e9d064a4805015f28c94c4e990fb89726d6bb86f&"
   />
-</p>
+
+</div>
