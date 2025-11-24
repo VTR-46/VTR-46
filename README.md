@@ -81,6 +81,13 @@ Atualmente estou aprendendo **C**, **Java**, **JavaScript** e **HTML**.
   />
 </a>
 
+<a href="https://github.com/VTR-46/SIGO">
+  <img
+      align="center"
+      style="padding: 10px;"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=VTR-46&repo=SIGO&theme=tokyonight"
+  />
+</a>
 ---
 
 ### 📊 Estatísticas
