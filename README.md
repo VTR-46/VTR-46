@@ -2,9 +2,9 @@
 
 **`Estudante de ADS`**
 
-Olá! Meu nome é **Victor Ricardo**, sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFSP - Araraquara**, atualmente cursando o **2º semestre**.  
+Olá! Meu nome é **Victor Ricardo**, sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFSP - Araraquara**, atualmente cursando o **3º semestre**.  
 <br>
-Atualmente estou aprendendo **C**, **Java**, **JavaScript** e **HTML**.
+Atualmente estou aprendendo **C**, **Java** e **JavaScript**.
 
 ---
 
