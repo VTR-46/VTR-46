@@ -69,7 +69,7 @@ Atualmente estou aprendendo **C**, **Java** e **JavaScript**.
   <img
       align="center"
       style="padding: 10px;"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=VTR-46&repo=Turbo-Tupiniquim&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=VTR-46&repo=Turbo-Tupiniquim&theme=tokyonight&v=1"
   />
 </a>
 
