@@ -142,3 +142,7 @@ Alguns exercícios feitos em aula e projetos criados para prática.
   />
 
 </div>
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/v2hhJgBKr1cAAAAC/valentino-rossi-rossi.gif" width="400" alt="Valentino Rossi">
+</div>
