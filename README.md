@@ -4,7 +4,7 @@
 
 Olá! Meu nome é **Victor Ricardo**, sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFSP - Araraquara**, atualmente cursando o **3º semestre**.  
 <br>
-Atualmente estou aprendendo **C**, **Java** e **JavaScript**.
+Atualmente estou aprendendo **C**, **Java**, **JavaScript** e **MySQL**.
 
 ---
 
@@ -57,6 +57,24 @@ Atualmente estou aprendendo **C**, **Java** e **JavaScript**.
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Tailwind CSS"
+    title="Tailwind CSS" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" 
 />
 
 <br clear="left"/>
