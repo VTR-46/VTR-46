@@ -91,6 +91,15 @@ Atualmente estou aprendendo **C**, **Java**, **JavaScript** e **MySQL**.
   />
 </a>
 
+<a href="https://github.com/VTR-46/HyperCorsaX">
+  <img
+      align="center"
+      style="padding: 10px;"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=VTR-46&repo=HyperCorsaX&theme=tokyonight&v=1"
+  />
+</a>
+
+
 <a href="https://github.com/VTR-46/Star-Core">
   <img
       align="center"
