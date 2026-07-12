@@ -87,7 +87,7 @@ Atualmente estou aprendendo **C**, **Java**, **JavaScript** e **MySQL**.
   <img
       align="center"
       style="padding: 10px;"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=VTR-46&repo=Turbo-Tupiniquim&theme=tokyonight&v=1"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=VTR-46&repo=Turbo-Tupiniquim&theme=tokyonight&v=1"
   />
 </a>
 
@@ -95,7 +95,7 @@ Atualmente estou aprendendo **C**, **Java**, **JavaScript** e **MySQL**.
   <img
       align="center"
       style="padding: 10px;"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=VTR-46&repo=HyperCorsaX&theme=tokyonight&v=1"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=VTR-46&repo=HyperCorsaX&theme=tokyonight&v=1"
   />
 </a>
 
@@ -104,7 +104,7 @@ Atualmente estou aprendendo **C**, **Java**, **JavaScript** e **MySQL**.
   <img
       align="center"
       style="padding: 10px;"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=VTR-46&repo=Star-Core&theme=tokyonight"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=VTR-46&repo=Star-Core&theme=tokyonight"
   />
 </a>
 
@@ -112,7 +112,7 @@ Atualmente estou aprendendo **C**, **Java**, **JavaScript** e **MySQL**.
   <img
       align="center"
       style="padding: 10px;"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=VTR-46&repo=SIGO&theme=tokyonight"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=VTR-46&repo=SIGO&theme=tokyonight"
   />
 </a>
 
@@ -120,10 +120,10 @@ Atualmente estou aprendendo **C**, **Java**, **JavaScript** e **MySQL**.
   <img
       align="center"
       style="padding: 10px;"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=VTR-46&repo=MoveUP&theme=tokyonight"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=VTR-46&repo=MoveUP&theme=tokyonight"
   />
 </a>
----
+
 
 ### 📊 Estatísticas
 
@@ -131,11 +131,17 @@ Atualmente estou aprendendo **C**, **Java**, **JavaScript** e **MySQL**.
   <img 
       alt="Top Langs" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTR-46&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=html,css" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=VTR-46&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=html,css" 
   />
 </p>
 
----
+<p align="center">
+  <img 
+      alt="Top Langs" 
+      height="200" 
+      src="https://github-stats-extended.vercel.app/api?username=VTR-46&theme=tokyonight&layout=compact&custom_title=GitHubStats&langs_count=9&hide=html,css" 
+  />
+
 
 ### 📋 Exercícios
 
@@ -145,7 +151,7 @@ Alguns exercícios feitos em aula e projetos criados para prática.
   <img
       align="center"
       style="padding: 10px;"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=VTR-46&repo=Gerenciador-De-Playlists-em-C&theme=tokyonight"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=VTR-46&repo=Gerenciador-De-Playlists-em-C&theme=tokyonight"
   />
 </a>
 
@@ -153,11 +159,11 @@ Alguns exercícios feitos em aula e projetos criados para prática.
   <img
       align="center"
       style="padding: 10px;"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=VTR-46&repo=RegistroDeViagens&theme=tokyonight"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=VTR-46&repo=RegistroDeViagens&theme=tokyonight"
   />
 </a>
 
----
+
 
 <br>
 <div align="center">
