@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/IFSP-Araraquara-0077B5?style=for-the-badge&logo=institute&logoColor=white" alt="IFSP" />
+    <img src="https://img.shields.io/badge/IFSP-Araraquara-008217?style=for-the-badge&logo=institute&logoColor=white" alt="IFSP" />
     <img src="https://img.shields.io/badge/ADS-4%C2%BA Semestre-FF6B35?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="ADS" />
     <a href= "https://8bitstecnologia.com.br/"> 
     <img src="https://img.shields.io/badge/Trabalho-8Bits-7B00FF?style=for-the-badge" > 
