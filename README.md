@@ -70,7 +70,7 @@
 | [**HyperCorsaX**](https://github.com/VTR-46/HyperCorsaX) | Sistema de telemetria com o Assetto Corsa | `C` `Python` `JavaScript` | 🚧 Em desenvolvimento |
 | [**MoveUP**](https://github.com/VTR-46/MoveUP) | Gerenciador de rotina de exercícios físicos |`HTML` `CSS` `JavaScript` `Tailwind` `Node` | ✅ Concluído |
 | [**Turbo Tupiniquim**](https://github.com/VTR-46/Turbo-Tupiniquim) | Fanpage de carros esportivos fabricados no Brasil | `HTML` `CSS` `Bootstrap` | ✅ Concluído |
-| [**Star Core**](https://github.com/VTR-46/Star-Core) | Framework leve para desenvolvimento de jogos 2D | `HTML` `CSS` `JavaScript`  `Tailwind` | ✅ Concluído |
+| [**Star Core**](https://github.com/VTR-46/Star-Core) | Site "Fan" de Swar Wars com API | `HTML` `CSS` `JavaScript`  `Tailwind` | ✅ Concluído |
 | [**SIGO**](https://github.com/VTR-46/SIGO) | Sistema de Gestão de Ordens de Serviço | `Java` | ✅ Concluído |
 
 ---
